@@ -1,0 +1,9 @@
+dist/*
+dist/
+*.xlsx
+*.db
+*.sqlite
+*.sqlite3
+*.exe
+build/*
+build/
